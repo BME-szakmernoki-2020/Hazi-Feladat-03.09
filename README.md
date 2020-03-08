@@ -15,4 +15,7 @@ Több helyről is jelentettek már megerősített esetet. Főként a nagyobb vá
 
 Horvátország:
 Eddig 7 megbetegedettet jelent az adatbázis. Zágráb-ban egy fertőzött embert és testvérést említi az adatbázis február 25-26-i dátummal, valamint egy új megbetegedésről számol be február 28-án.
-Rijeka településen február 26-án egy megbetegedést jeénetettek valamint azóta 3 új megbetegedést jeleztek a térképen február 28-29 és március 1-i dátummal. ezekben az esetekben nem definiálták kitől kaphatták el a fertőzést. 
+Rijeka településen február 26-án egy megbetegedést jeénetettek valamint azóta 3 új megbetegedést jeleztek a térképen február 28-29 és március 1-i dátummal. ezekben az esetekben nem definiálták kitől kaphatták el a fertőzést.
+
+Magyarország jelenlegi állapotban nem szerepel a térképen azonban a hazai híradások 5 koronavírusos fertőzést jelentettek és a WHO adatai alapján várható egy 6. beteg bejelentése is. A Mo.-on fertőzött személyek: 3 Iráni diák, 1 brit férfi aki Debrecenben lakik és Olaszországban járt üzleti úton, valamint egy legyengült szervezetű 60 év körüli idős magyar férfit diagnosztizáltak, állapota súlyos!
+
